@@ -15,9 +15,12 @@ function TodoForm() {
     addTd(newTodoValue);
     setOpenModal(false);
   };
+  const onSubmit = () => {
+    //jes jes jes
+  };
 
   return (
-    <form onSubmit={submiTodo}>
+    <form onSubmit={onSubmit}>
       <label>...</label>
       <textarea
         value={newTodoValue}
