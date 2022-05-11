@@ -1,0 +1,23 @@
+
+.btn-inactive {
+  background-color: #549172;
+  z-index: 10;
+  border: none;
+  color: white;
+  width: 70px;
+  height: 70px;
+  text-align: center;
+  text-decoration: dashed;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 16px;
+  border-radius: 10em;
+  font-size: 3rem;
+    position: fixed;
+    right: 20px;
+  bottom: 20px;
+  cursor: pointer;
+    
+}
+
