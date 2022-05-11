@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/posmodernismoSIG/TodosAPP-React.git/static/css/main.94389760.css",
+    "main.js": "/posmodernismoSIG/TodosAPP-React.git/static/js/main.4619330a.js",
+    "index.html": "/posmodernismoSIG/TodosAPP-React.git/index.html",
+    "main.94389760.css.map": "/posmodernismoSIG/TodosAPP-React.git/static/css/main.94389760.css.map",
+    "main.4619330a.js.map": "/posmodernismoSIG/TodosAPP-React.git/static/js/main.4619330a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94389760.css",
+    "static/js/main.4619330a.js"
+  ]
+}
