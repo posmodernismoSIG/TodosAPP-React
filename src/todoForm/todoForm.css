@@ -1,0 +1,11 @@
+.formCaption {
+    display: flex;
+    font-style: normal;
+    font-size: larger;
+    text-align: center;
+    text-decoration-color: black;
+}
+
+.formInput {
+    display: grid;
+}
